@@ -1,4 +1,4 @@
-package codeup.출력문;
+package codeup.ㄱ출력문;
 
 public class M1002 {
 
